@@ -1,3 +1,4 @@
 *~
 tmp/*
 etc/emacs-custom.el
+tramp
